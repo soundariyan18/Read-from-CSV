@@ -34,3 +34,5 @@ print("rows".len(df.axes[1]))
 ![model](output.png)
 
 ## RESULT:
+
+Thus a program to read from a csv file has been written successfully
